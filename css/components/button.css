@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: #6D71DD;
+	padding: 15px 20px; 
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.banner h1 {
+	font-size: 50px
+}
+
+.banner h2 {
+	font-size: 30px
+	font-weight: lighter;
+	
+}
